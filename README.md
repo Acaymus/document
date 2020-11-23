@@ -1,1 +1,1 @@
-* [.pdf](https://github.com/Acaymus/document/cmsPrototipo.pdf)
+* [.pdf](https://github.com/Acaymus/document/blob/main/cmsPrototipo.pdf)
